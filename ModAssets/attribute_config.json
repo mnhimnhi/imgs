@@ -1,0 +1,380 @@
+{
+  "attributes": [
+    {
+      "code": "atk",
+      "name": "攻击力"
+    },
+    {
+      "code": "def",
+      "name": "防御力"
+    },
+    {
+      "code": "hpMax",
+      "name": "最大体力值"
+    },
+    {
+      "code": "mpMax",
+      "name": "最大灵力值"
+    },
+    {
+      "code": "spMax",
+      "name": "最大念力值"
+    },
+    {
+      "code": "dpMax",
+      "name": "最大道力值"
+    },
+    {
+      "code": "hp",
+      "name": "体力值"
+    },
+    {
+      "code": "mp",
+      "name": "灵力值"
+    },
+    {
+      "code": "sp",
+      "name": "念力值"
+    },
+    {
+      "code": "dp",
+      "name": "道力值"
+    },
+    {
+      "code": "life",
+      "name": "寿命（月）"
+    },
+    {
+      "code": "health",
+      "name": "健康值"
+    },
+    {
+      "code": "mood",
+      "name": "心情值"
+    },
+    {
+      "code": "energy",
+      "name": "精力值"
+    },
+    {
+      "code": "talent",
+      "name": "悟性"
+    },
+    {
+      "code": "healthMax",
+      "name": "最大健康值"
+    },
+    {
+      "code": "luck",
+      "name": "幸运值"
+    },
+    {
+      "code": "moodMax",
+      "name": "最大心情值"
+    },
+    {
+      "code": "energyMax",
+      "name": "最大精力值"
+    },
+    {
+      "code": "msp",
+      "name": "移动速度"
+    },
+    {
+      "code": "fsp",
+      "name": "脚力"
+    },
+    {
+      "code": "hpRes",
+      "name": "体力回复"
+    },
+    {
+      "code": "mpRes",
+      "name": "灵力回复"
+    },
+    {
+      "code": "spRes",
+      "name": "念力回复"
+    },
+    {
+      "code": "crit",
+      "name": "暴击率"
+    },
+    {
+      "code": "guard",
+      "name": "护心值"
+    },
+    {
+      "code": "critV",
+      "name": "会心倍率"
+    },
+    {
+      "code": "guardV",
+      "name": "护心倍率"
+    },
+    {
+      "code": "basPil",
+      "name": "炼丹资质"
+    },
+    {
+      "code": "basEqp",
+      "name": "基础炼器"
+    },
+    {
+      "code": "basGeo",
+      "name": "风水资质"
+    },
+    {
+      "code": "basSym",
+      "name": "基础音律"
+    },
+    {
+      "code": "basHerb",
+      "name": "药材资质"
+    },
+    {
+      "code": "basMine",
+      "name": "矿材资质"
+    },
+    {
+      "code": "basSword",
+      "name": "剑法资质"
+    },
+    {
+      "code": "basSpear",
+      "name": "基础枪法"
+    },
+    {
+      "code": "basBlade",
+      "name": "刀法资质"
+    },
+    {
+      "code": "basFist",
+      "name": "基础拳法"
+    },
+    {
+      "code": "basPalm",
+      "name": "掌法资质"
+    },
+    {
+      "code": "basFinger",
+      "name": "指法资质"
+    },
+    {
+      "code": "basFire",
+      "name": "火灵根"
+    },
+    {
+      "code": "basFroze",
+      "name": "水灵根"
+    },
+    {
+      "code": "basThunder",
+      "name": "雷灵根"
+    },
+    {
+      "code": "basWind",
+      "name": "风灵根"
+    },
+    {
+      "code": "basEarth",
+      "name": "土灵根"
+    },
+    {
+      "code": "basWood",
+      "name": "木灵根"
+    },
+    {
+      "code": "beauty",
+      "name": "魅力"
+    },
+    {
+      "code": "standUp",
+      "name": "正道立场"
+    },
+    {
+      "code": "standDown",
+      "name": "魔道值"
+    },
+    {
+      "code": "closeStable",
+      "name": "亲密度变化速度"
+    },
+    {
+      "code": "hateStable",
+      "name": "仇恨度变化速度"
+    },
+    {
+      "code": "moodUpStable",
+      "name": "心情上升时变化速度"
+    },
+    {
+      "code": "moodDownStable",
+      "name": "心情下降时变化速度"
+    },
+    {
+      "code": "basMgAll",
+      "name": "所有灵根"
+    },
+    {
+      "code": "basWpAll",
+      "name": "所有武器资质"
+    },
+    {
+      "code": "basMgMax",
+      "name": "功法资质上限"
+    },
+    {
+      "code": "basWpMax",
+      "name": "最高的一条功法资质"
+    },
+    {
+      "code": "basAllMax",
+      "name": "最高的一条战斗资质"
+    },
+    {
+      "code": "basArtMax",
+      "name": "最高的一条技艺资质"
+    },
+    {
+      "code": "basMgMin",
+      "name": "最低的一条灵根资质"
+    },
+    {
+      "code": "basWpMin",
+      "name": "最低的一条功法资质"
+    },
+    {
+      "code": "basAllMin",
+      "name": "最低的一条战斗资质"
+    },
+    {
+      "code": "basArtMin",
+      "name": "最低的一条技艺资质"
+    },
+    {
+      "code": "basMgDyn",
+      "name": "动态灵根"
+    },
+    {
+      "code": "basWpDyn",
+      "name": "动态武器资质"
+    },
+    {
+      "code": "pfr",
+      "name": "物理免伤"
+    },
+    {
+      "code": "mfr",
+      "name": "魔法免伤"
+    },
+    {
+      "code": "reputation",
+      "name": "声望"
+    },
+    {
+      "code": "basArtAll",
+      "name": "所有技艺资质"
+    },
+    {
+      "code": "swordGrow",
+      "name": "剑法成长率"
+    },
+    {
+      "code": "spearGrow",
+      "name": "枪法成长率"
+    },
+    {
+      "code": "bladeGrow",
+      "name": "刀法成长率"
+    },
+    {
+      "code": "fistGrow",
+      "name": "拳法成长率"
+    },
+    {
+      "code": "palmGrow",
+      "name": "掌法成长率"
+    },
+    {
+      "code": "fingerGrow",
+      "name": "指法成长率"
+    },
+    {
+      "code": "fireGrow",
+      "name": "火系成长率"
+    },
+    {
+      "code": "frozeGrow",
+      "name": "冰系成长率"
+    },
+    {
+      "code": "thunderGrow",
+      "name": "雷系成长率"
+    },
+    {
+      "code": "windGrow",
+      "name": "风系成长率"
+    },
+    {
+      "code": "earthGrow",
+      "name": "土系成长率"
+    },
+    {
+      "code": "woodGrow",
+      "name": "木系成长率"
+    },
+    {
+      "code": "expGrow",
+      "name": "人物经验获取率"
+    },
+    {
+      "code": "healthUpStable",
+      "name": "健康上升速度"
+    },
+    {
+      "code": "healthDownStable",
+      "name": "健康降低速度"
+    },
+    {
+      "code": "schoolBuyDecline",
+      "name": "门派购买折扣"
+    },
+    {
+      "code": "townBuyDecline",
+      "name": "城镇购买折扣"
+    },
+    {
+      "code": "energyUpStable",
+      "name": "精力增加速度"
+    },
+    {
+      "code": "energyDownStable",
+      "name": "精力消耗速度"
+    },
+    {
+      "code": "stepGrow",
+      "name": "身法熟练提成速度"
+    },
+    {
+      "code": "lockInitScore",
+      "name": "道具原始封印评分"
+    },
+    {
+      "code": "propGridNum",
+      "name": "道具格子数量"
+    },
+    {
+      "code": "abilityPoint",
+      "name": "道点"
+    },
+    {
+      "code": "pillLayer",
+      "name": "装备丹药的叠加数量"
+    },
+    {
+      "code": "abilityExp",
+      "name": "心得"
+    }
+  ]
+}
